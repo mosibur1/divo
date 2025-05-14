@@ -462,7 +462,7 @@ async def main():
         proxies = div.load_proxies()
 
     div.log(
-        "🎉 [LIVEXORDS] === Welcome to Divo Automation === [LIVEXORDS]", Fore.YELLOW
+        "🎉 [MRPTech] === Welcome to Divo Automation === [MRPTech]", Fore.YELLOW
     )
     div.log(f"📂 Loaded {len(all_accounts)} accounts from query list.", Fore.YELLOW)
 
