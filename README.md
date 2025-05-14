@@ -112,13 +112,13 @@ pip install -r requirements.txt
 1. **Clone the Repository**
 
    ```bash
-   git clone https://codeberg.org/LIVEXORDS/divo-bot.git
+   git clone https://github.com/mosibur1/divo.git
    ```
 
 2. **Navigate to the Project Folder**
 
    ```bash
-   cd divo-bot
+   cd divo
    ```
 
 3. **Install Dependencies**
