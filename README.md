@@ -11,7 +11,7 @@
   <a href="https://codeberg.org/livexords/ddai-bot/actions" style="display: inline-block;">
     <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="Build Status" />
   </a>
-  <a href="https://t.me/livexordsscript" style="display: inline-block;">
+  <a href="https://t.me/mrptechofficial" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?logo=telegram&style=flat" alt="Telegram Group" />
   </a>
 </p>
@@ -58,7 +58,7 @@ Divo Bot is built with flexibility and efficiency in mind – it's here to help 
 Before you start using Divo-bot Bot, make sure to register your account.  
 Click the link below to get started:
 
-[🔗 Register for Divo Bot](https://t.me/divo_fashion_bot?start=cmVmXzU0MzgyMDk2NDQ)
+[🔗 Register for Divo Bot](https://t.me/divo_fashion_bot?start=cmVmXzY5NTEwMjc3MQ)
 
 ---
 
@@ -187,7 +187,7 @@ For contribution guidelines, please consider:
 - **Feature Requests & Bugs:** Report and discuss via our Telegram group.
 
 <div align="center">
-  <a href="https://t.me/livexordsscript" target="_blank">
+  <a href="https://t.me/mrptechofficial" target="_blank">
     <img src="https://img.shields.io/badge/Join-Telegram%20Group-2CA5E0?logo=telegram&style=for-the-badge" height="25" alt="Telegram Group" />
   </a>
 </div>
