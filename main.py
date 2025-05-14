@@ -48,8 +48,8 @@ class divo:
     def banner(self) -> None:
         """Displays the banner for the bot."""
         self.log("🎉 Divo Bot", Fore.CYAN)
-        self.log("🚀 Created by LIVEXORDS", Fore.CYAN)
-        self.log("📢 Channel: t.me/livexordsscript\n", Fore.CYAN)
+        self.log("🚀 Created by MRPTech", Fore.CYAN)
+        self.log("📢 Channel: t.me/mrptechofficial\n", Fore.CYAN)
 
     def log(self, message, color=Fore.RESET):
         safe_message = message.encode("utf-8", "backslashreplace").decode("utf-8")
